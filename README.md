@@ -5,7 +5,7 @@
 ## 技術同人誌
 ### オープンフレームを使った自作PC勢向けデスクトップPCの海外輸送
 
-<img src="fig/cover.drawio.png" width="250">
+<img src="fig/pc_transportation.drawio.png" width="250">
 
 販売ページ： https://scepter914.booth.pm/items/7656138
 
