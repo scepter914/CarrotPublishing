@@ -5,10 +5,12 @@
 ## 技術同人誌
 ### AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜
 
+<p>
 <img src="fig/wiki_driven_development/wiki_1_cover.png" width="160">
 <img src="fig/wiki_driven_development/wiki_1_toc.png" width="160">
 <img src="fig/wiki_driven_development/wiki_1_preface.png" width="160">
 <img src="fig/wiki_driven_development/wiki_1_page_05.png" width="160">
+</p>
 
 販売ページ： https://scepter914.booth.pm/items/8733990
 
@@ -37,10 +39,12 @@ AIを使っているのに、過去の文脈が毎回リセットされてしま
 
 ### オープンフレームを使った自作PC勢向けデスクトップPCの海外輸送
 
+<p>
 <img src="fig/desktop_pc_transportation/01_cover.png" width="160">
 <img src="fig/desktop_pc_transportation/02_toc.png" width="160">
 <img src="fig/desktop_pc_transportation/03_preface.png" width="160">
 <img src="fig/desktop_pc_transportation/04_chapter2.png" width="160">
+</p>
 
 販売ページ： https://scepter914.booth.pm/items/7656138
 
@@ -56,10 +60,12 @@ AIを使っているのに、過去の文脈が毎回リセットされてしま
 ## 旅行記
 ### 「競走馬名の由来を訪ねて Vol.1 レガレイラの（馬名の）軌跡を辿ってみた 〜レガレイラ宮殿、ロカ岬＠ポルトガル〜」
 
+<p>
 <img src="fig/regaleira/01_cover.png" width="160">
 <img src="fig/regaleira/02_toc.png" width="160">
 <img src="fig/regaleira/03_preface.png" width="160">
 <img src="fig/regaleira/04_horse.png" width="160">
+</p>
 
 販売ページ：https://scepter914.booth.pm/items/8733791
 
@@ -82,13 +88,15 @@ AIを使っているのに、過去の文脈が毎回リセットされてしま
 
 ### ガイランゲルフィヨルドとソグネフィヨルドを巡る弾丸旅
 
+<p>
 <img src="fig/norway/01_cover.png" width="160">
 <img src="fig/norway/02_toc_1.png" width="160">
 <img src="fig/norway/03_toc_2.png" width="160">
 <img src="fig/norway/04_preface.png" width="160">
 <img src="fig/norway/05_preface_next.png" width="160">
+</p>
 
-販売ページ：https://scepter914.booth.pm/items/7656138
+https://scepter914.booth.pm/items/7663966
 
 本書は2025年夏に実行したノルウェー弾丸周遊の記録です。
 ガイランゲルフィヨルドとソグネフィヨルドという二つの代表的な景勝地を一気に巡り、移動の組み方や現地での判断を、成功も失敗も含めて詳細に残しました。
