@@ -47,6 +47,8 @@ AIを使っているのに、過去の文脈が毎回リセットされてしま
 <img src="fig/wiki_driven_development/wiki_2_page_05.png" width="160">
 </p>
 
+販売ページ： https://scepter914.booth.pm/items/9175347
+
 本書は『AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜』の続編です。
 Vol.1 と Vol.2 の執筆時期のAIの進展は凄まじく、チャットだけでなくコーディングAgentといったツールも出てきました。
 一方で生成AIに飲みこまれ、本人は全く理解していないっぽいアウトプットを見る機会も非常に多くなりました。
