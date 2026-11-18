@@ -3,7 +3,8 @@
 - [Booth](https://scepter914.booth.pm/) にて販売中
 
 ## 技術同人誌
-### AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜
+### AI時代における個人wiki駆動開発のススメ
+#### AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜
 
 <p>
 <img src="fig/wiki_driven_development/wiki_1_cover.png" width="160">
@@ -36,6 +37,43 @@ AIを使っているのに、過去の文脈が毎回リセットされてしま
 - 改訂リスト
   - 2026 年 6 月 11 日 初版第 1 刷
   - 2026 年 11 月 1 日 初版第 2 刷
+
+#### AI時代における個人wiki駆動開発のススメ Vol.2 〜発展編〜
+
+<p>
+<img src="fig/wiki_driven_development/wiki_2_cover.png" width="160">
+<img src="fig/wiki_driven_development/wiki_2_toc.png" width="160">
+<img src="fig/wiki_driven_development/wiki_2_preface.png" width="160">
+<img src="fig/wiki_driven_development/wiki_2_page_05.png" width="160">
+</p>
+
+販売ページ： https://scepter914.booth.pm/items/9175347
+
+本書は『AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜』の続編です。
+Vol.1 と Vol.2 の執筆時期のAIの進展は凄まじく、チャットだけでなくコーディングAgentといったツールも出てきました。
+一方で生成AIに飲みこまれ、本人は全く理解していないっぽいアウトプットを見る機会も非常に多くなりました。
+
+- 生産性をあげるためにAIを活用したい
+- 生成AIに飲まれたくない
+
+という人向けに、Vol.2では作業日誌を数か月続けた個人Wikiを「育てる」方法を扱います。
+作業日誌を続けていると、次のような困りごとが出てきます。
+
+- プロジェクトが増えてくると別々のプロジェクトの記録が混ざる
+- 環境構築のように何度も使う手順を、過去の日誌から毎回探し直すことになる
+- コーディングAgentに作業を任せると、過去に何をやっていたのか分からなくなる
+
+本書では「スコープを絞る」ことと「まとめる過程は人間が担う」ことを軸に
+
+- 作業日誌の分け方、知識ページへの切り出し方
+- 増えたWikiの構造の保ち方
+- Wikiから成果物としてPDF (Pandoc / Typst)、スライド (reveal.js)、ブログ記事 (Hugo)、共有Wiki (GitHub / Gollum) を作る方法
+- コーディングAgentと個人Wikiの共存
+- 個人Wikiのアーキテクチャと生成AI：LLM WikiやOKFと本書の構成の比較
+
+を紹介します。
+
+- 2026/11/23 発売
 
 ### オープンフレームを使った自作PC勢向けデスクトップPCの海外輸送
 
