@@ -3,6 +3,24 @@
 - [Booth](https://scepter914.booth.pm/) にて販売中
 
 ## 技術同人誌
+### Agent活用例 (2026/11 ver)
+
+<p>
+<img src="fig/agent_design_202611/main_cover.png" width="160">
+<img src="fig/agent_design_202611/main_toc.png" width="160">
+<img src="fig/agent_design_202611/main_preface.png" width="160">
+<img src="fig/agent_design_202611/main_page_05.png" width="160">
+</p>
+
+販売ページ： https://scepter914.booth.pm/items/9175472
+
+Claude CodeやCodexをコーディング以外の作業にも使ってみたいけれど、どこまで任せてよいか迷っていませんか？
+本書では2026/11時点でのAgentの使い分けと、Agentで事務作業を自動化するための設計術を紹介します。
+データを原本・台帳・成果物に分けてAgentの権限を絞り、Agentに毎回作業させるか、繰り返す部分をCLIなどの道具に任せるかを作業ごとに選びます。
+実例として、領収書から経費CSVを作るAgentと、稼働報告書のPDFを作るCLIを、実際に使っている手順書（AGENTS.md）のサンプルとともに載せました。
+
+- 2026/11/23 発売
+
 ### AI時代における個人wiki駆動開発のススメ
 #### AI時代における個人wiki駆動開発のススメ Vol.1 〜基本編〜
 
